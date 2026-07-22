@@ -8,4 +8,4 @@ HTML • CSS • JavaScript
 
 ## Live
 
-🔗 GitHub Pages: [Your GitHub Page Link]
+🔗 GitHub Pages: https://sumaya-lopa.github.io/portfolio/
